@@ -1,0 +1,209 @@
+/* Business name for contact info.*/
+* {
+  font-family: Century Gothic;
+  background-color: #ccf2ff;
+}
+/*first "box" with contacts (left)*/
+.headinfo {
+  background-color: white;
+  text-align: center;
+}
+.navbar {
+  border-bottom-style: solid;
+  border-bottom-color: lightgray;
+  border-bottom-width: 0.2px;
+  background-color: white;
+  text-align: center;
+}
+
+#contact-list {
+  display: inline-block;
+  border-style: solid;
+  border-color: white;
+  width: 400px;
+  background-color: white;
+  margin: 60px;
+
+
+
+}
+
+#feed {
+  float: right;
+  border-style: solid;
+  border-color: white;
+  width: 400px;
+  background-color: white;
+  margin: 60px;
+}
+
+.info {
+  color: lightgray;
+  background-color: white;
+  font-size: 12px;
+}
+
+.contacts {
+  font-weight: bold;
+  background-color: white;
+}
+
+#alpha_list {
+  float: right;
+  font-size: 12px;
+  background-color: white;
+  font-weight: bold;
+
+}
+
+#no_bullets {
+  list-style-type: none;
+  font-size: 10px;
+  text-align: center;
+  color: lightblue;
+}
+aside ul li {
+  margin-top: 7px;
+  margin-right: 5px;
+
+}
+
+#john {
+  list-style-image: url();
+  list-style-position: inside;
+  list-style-type: none;
+
+ }
+
+#joshua {
+  list-style-image: url();
+  list-style-position: inside;
+}
+
+#sam {
+  list-style-image: url();
+  list-style-position: inside;
+}
+
+#megan {
+  list-style-image: url();
+  list-style-position: inside;
+
+  }
+
+#joel {
+  list-style-image: url();
+  list-style-position: inside;
+}
+
+#kyle {
+  list-style-image: url();
+  list-style-position: inside;
+}
+
+#lauren {
+  list-style-image: url();
+  list-style-position: inside;
+}
+.contact_alpha {
+
+}
+h4 {
+  background-color: white;
+  margin-left: 12px;
+  color: lightblue;
+}
+
+.bottomnav {
+  display: inline-block;
+  border-top-style: solid;
+  border-color: lightgray;
+  border-top-width: 1px;
+  background-color: white;
+}
+
+#recentnav {
+  display: inline-block;
+
+}
+
+#contactsnav {
+  display: inline-block;
+
+}
+
+#favnav {
+  display: inline-block;
+}
+
+
+/*Second "box" selected contact (right)*/
+#bckgrndpic {
+  background-image: url(http://www.marvelbuilding.com/wp-content/uploads/2010/10/Umea-School-of-Architecture-building-for-inspiration-and-innovation.jpg);
+  margin: 10px;
+  height: 150px;
+  border-radius: 5px;
+}
+.selected_contact {
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+
+
+
+}
+
+#fb_feed {
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+#ig_feed {
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+  margin: 10px;
+}
+
+p {
+  background-color: white;
+}
+
+ul {
+  background-color: white;
+}
+
+li {
+  background-color: white;
+}
+
+div {
+  background-color: white;
+}
+
+#selectkyle {
+  text-align: center;
+  font-weight: bold;
+}
+
+#selectkyleinfo {
+  text-align: center;
+  color: lightgray;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 0.2;
+}
+
+.number {
+  color: lightgray;
+  font-size: 10px;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.phone {
+  font-size: 14px;
+}
